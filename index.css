@@ -11,7 +11,7 @@
     height: 100vh;
     align-items: center;
     padding: 20px;
-    border: 2px red solid;
+    border: 2px red dashed;
     margin: 5px;
 }
 
